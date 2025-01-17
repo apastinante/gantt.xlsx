@@ -1,6 +1,6 @@
-# Excel Gantt Chart
+# `gantt.xlsx`
 
-With *automatic*:
+Excel Gantt chart template with automatic:
 - Gantt chart plot based on task dates
 - Delay highlighting
 - Task classification hierarchy
