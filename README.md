@@ -6,6 +6,8 @@ Excel Gantt chart template with automatic:
 - Task classification hierarchy
 - Month labelling
 
+> Tip: export Gantts to LaTeX with [Tables Generator](https://www.tablesgenerator.com)
+
 ![Example](example.png)
 
 ## User Guide
