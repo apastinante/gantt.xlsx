@@ -26,7 +26,7 @@ Derived from task code:
 
 ![Template](template.png)
 
-© Antonio López Rivera, 2024
+© Antonio López Rivera, 2025
 
 ---
 
