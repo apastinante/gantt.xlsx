@@ -14,17 +14,15 @@ Excel Gantt chart template with automatic:
 
 This guide can be found in the first sheet of the workbook.
 
-### Project Duration
+#### Project Duration
+From `Start date` to `End date`.
 
-From start date to end date.
-
-### Task Hierarchy
-
-Derived from task code.
+#### Task Hierarchy
+Derived from task code:
 
 ![Task Hierarchy](task_hierarchy.png)
 
-### Template provided
+## Template
 
 ![Template](template.png)
 
