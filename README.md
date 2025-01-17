@@ -1,4 +1,4 @@
-# Gantt Chart Template
+# Excel Gantt Chart
 
 With *automatic*:
 - Gantt chart plot based on task dates
