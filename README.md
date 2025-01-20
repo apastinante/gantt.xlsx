@@ -1,4 +1,4 @@
-# `gantt.xlsx`
+# gantt.xlsx
 
 Excel Gantt chart template with automatic:
 - Gantt chart plot based on task dates
